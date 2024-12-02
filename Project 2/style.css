@@ -1,0 +1,46 @@
+html,body {
+height: 100%;
+margin: 0;
+font-size: 16px;
+line-height: 1.8em;
+color: #666;
+}
+
+.background_image1 {
+ background-image: url(https://i.pinimg.com/originals/e7/cd/fb/e7cdfbae80f4ac6eb9f049800ac8b263.gif);
+ min-height: 100%;
+position:relative;
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+.ptext{
+    position:absolute;
+    top:50%;
+    width: 100%;
+    text-align: center;
+    color: aliceblue;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+
+.textbg{
+    background-color: rgba(0, 0, 0, 0.402);
+    color: white;
+    padding: 20px;
+}
+.section{
+    padding: 50px 80px;
+    text-align: center;
+}
+.background_image2 {
+    background-image: url(https://giffiles.alphacoders.com/129/129491.gif);
+    min-height: 100%;
+   position:relative;
+   background-position: center;
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   }
